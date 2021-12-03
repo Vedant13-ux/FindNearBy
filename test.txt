@@ -1,0 +1,17 @@
+{
+    "service_name" :"swimming",
+    "booked_by":"vedantnagani@gmail.com",
+    "amount":300,
+    "date":"10Th Nov",
+    "time":"3:00 PM"
+
+}
+
+{
+    "email":"vedantnagani@gmail.com",
+    "password":"1234",
+    "name": "Vedant Nagani",
+    "hotel_id": 1, 
+    "hotel_name": "Taj Hotel"
+    "secret_key": "secret1234"
+}
